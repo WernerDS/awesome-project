@@ -8,6 +8,6 @@
 		"eslint": "^8.53.0",
 		"eslint-config-prettier": "^9.0.0",
 		"eslint-config-turbo": "latest",
-		"@antfu/eslint-config": "^0.39.3"
+		"@antfu/eslint-config": "^2.6.2"
 	}
 }
